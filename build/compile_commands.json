@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vadim/Desktop/tutorial/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/vadim/Desktop/tutorial/main.cpp",
+  "file": "/home/vadim/Desktop/tutorial/main.cpp"
+}
+]
